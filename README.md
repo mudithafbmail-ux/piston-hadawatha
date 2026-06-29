@@ -1,82 +1,59 @@
-# Piston Hadawatha
+PISTON HADAWATHA
+Showrunner Summary
 
-![Banner](https://via.placeholder.com/1200x400.png?text=Piston+Hadawatha+%7C+Kurunegala+Underground+System)
+Created by: Jayasundara Technologies (Jay Tech)
+Format: Serialized Drama (1-Hour Episodes)
+Genre: Automotive Mystery / Crime Drama / Character Study
+Location: Kurunegala, Sri Lanka
 
-![Status](https://img.shields.io/badge/status-development-blue)
-![Genre](https://img.shields.io/badge/genre-mystery--drama-red)
-![Setting](https://img.shields.io/badge/setting-Sri%20Lanka%20%7C%20Kurunegala-green)
-![Focus](https://img.shields.io/badge/focus-automotive%20culture-black)
-![Style](https://img.shields.io/badge/style-cinematic%20storytelling-purple)
+OVERVIEW
 
----
+Piston Hadawatha is a grounded, character-driven automotive mystery drama set in Kurunegala, Sri Lanka—an intercity hub where underground JDM culture, informal transport networks, and institutional systems quietly overlap.
 
-## Overview
+At its core, the series is not about racing. It is about balance—the invisible agreements that allow a complex city to function without collapsing into chaos.
 
-Piston Hadawatha is a Sri Lankan automotive mystery-drama set in Kurunegala, where underground JDM culture, hidden systems, and everyday life quietly collide beneath the surface of a normal city.
+Cars in this world are not simply machines. They are extensions of identity, memory, reputation, and unresolved history.
 
-This is not just a story about racing. It is a story about systems, memory, and the invisible agreements that keep a city functioning.
+SERIES PREMISE
 
-Cars are not just machines here. They are reputations, histories, and warnings.
+Kurunegala operates on an unspoken system maintained by mechanics, racers, police, and intermediaries who understand that total enforcement would destabilize the city.
 
----
+Within this fragile equilibrium, a bakery delivery driver—Jayasiri—unintentionally becomes a central figure in a network he does not fully understand. While perceived as a “ghost driver” by the underground scene, he believes he is simply navigating everyday life with difficulty and delay.
 
-## The World
+When a formerly impounded vehicle known as “Glitch” re-enters circulation through an unsuspecting buyer, long-dormant histories begin to surface, threatening the balance that has quietly held the city together.
 
-Kurunegala is a city of contradiction.
+TONE & STYLE
 
-Ancient granite rocks stand above a constantly moving transport hub filled with modified cars, hidden workshops, and informal networks that connect mechanics, racers, police, and transport operators.
+The series blends realism with cinematic tension, focusing on atmosphere, silence, and system-driven storytelling rather than spectacle.
 
-No one fully controls the system.
+Grounded, observational direction
+Minimal exposition, character-led revelation
+High emphasis on environment, routine, and movement
+Psychological tension over overt action
 
-But everyone knows how to keep it balanced.
+The result is a slow-unfolding mystery where meaning is constructed through behavior, not explanation.
 
----
+CORE THEMES
+Invisible systems that govern urban life
+Identity shaped by perception vs reality
+Memory embedded in machines and infrastructure
+Balance between order and controlled chaos
+The social cost of maintaining stability
+MAIN CHARACTER DYNAMICS
+Jayasiri – An ordinary man whose driving ability becomes mythologized by the city around him. He is not trying to become anything beyond functional survival.
+Asiri – A quiet system operator who understands how to stabilize pressure within a city by managing relationships, influence, and timing rather than force.
+Navodi Rathnayake – An outsider whose accidental acquisition of “Glitch” disrupts a long-maintained equilibrium.
+Hasitha – A young mechanic apprentice who serves as the audience’s entry point into the underground automotive ecosystem.
+SERIES ENGINE
 
-## Main Characters
+Each episode escalates through the introduction of new information rather than external spectacle. The central mystery evolves around three questions:
 
-### Jayasiri
-A bakery delivery driver who appears ordinary in daily life. Forgetful, disorganized, and socially distant, he struggles with time in normal life. Behind the wheel, however, he becomes precise, calm, and instinctive. The city sees him as a ghost driver, but he sees himself as someone simply trying not to be late.
+What is the true history of “Glitch”?
+What role does Jayasiri actually play in the city’s system?
+How far does the informal balance of Kurunegala extend?
 
-### Asiri
-A quiet but influential workshop owner who operates at the center of the city’s hidden automotive ecosystem. He does not see himself as a villain or hero, but as a stabilizer of systems. He connects people, manages pressure, and quietly maintains balance between underground culture and official structures.
+As answers emerge, they continuously reshape the audience’s understanding of earlier events.
 
-### Navodi Rathnayake
-An ordinary young woman who unknowingly purchases a Honda Fit GP5 at a police auction. The car, known in underground circles as “Glitch,” carries a reputation tied to unresolved history. Her arrival disrupts a system that has remained stable for years.
+POSITIONING
 
-### Hasitha
-A young apprentice mechanic who represents the audience’s perspective inside the underground workshop culture. Curious and observant, he gradually learns that the city’s automotive world is shaped by relationships, not just machines.
-
----
-
-## The Project
-
-This repository is a creative development space for the *Piston Hadawatha* universe, including:
-
-- Story outlines  
-- Character development  
-- Episode structures  
-- Screenplay drafts  
-- World-building documentation  
-- Concept exploration  
-
----
-
-## Themes
-
-- Invisible systems that govern cities  
-- Identity vs perception  
-- Legacy and inherited skill  
-- Balance between chaos and control  
-- Machines as carriers of memory  
-
----
-
-## Style
-
-A cinematic, character-driven narrative blending Sri Lankan urban culture with underground automotive storytelling inspired by real motorsport history and JDM influence.
-
----
-
-## Status
-
-This project is in active development.
+Piston Hadawatha is designed as a premium international series rooted in Sri Lankan cultural identity, combining automotive realism with systemic storytelling. It offers a unique perspective on underground car culture, not as rebellion or spectacle, but as infrastructure embedded within everyday life.
